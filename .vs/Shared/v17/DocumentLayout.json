@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RMansouri\\source\\repos\\Shared\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2C5AAD-13DB-41A0-ADFE-404FF9518518}|ZeroToFirstAgent.FoundyLocal\\ZeroToFirstAgent.FoundyLocal.csproj|c:\\users\\rmansouri\\source\\repos\\shared\\zerotofirstagent.foundylocal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB2C5AAD-13DB-41A0-ADFE-404FF9518518}|ZeroToFirstAgent.FoundyLocal\\ZeroToFirstAgent.FoundyLocal.csproj|solutionrelative:zerotofirstagent.foundylocal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02F82C3-6B20-4745-BD17-F5CE54B731D3}|ZeroToFirstAgent.Olama\\ZeroToFirstAgent.Olama.csproj|c:\\users\\rmansouri\\source\\repos\\shared\\zerotofirstagent.olama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02F82C3-6B20-4745-BD17-F5CE54B731D3}|ZeroToFirstAgent.Olama\\ZeroToFirstAgent.Olama.csproj|solutionrelative:zerotofirstagent.olama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.FoundyLocal\\Program.cs",
+              "RelativeDocumentMoniker": "ZeroToFirstAgent.FoundyLocal\\Program.cs",
+              "ToolTip": "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.FoundyLocal\\Program.cs",
+              "RelativeToolTip": "ZeroToFirstAgent.FoundyLocal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T04:54:12.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.Olama\\Program.cs",
+              "RelativeDocumentMoniker": "ZeroToFirstAgent.Olama\\Program.cs",
+              "ToolTip": "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.Olama\\Program.cs",
+              "RelativeToolTip": "ZeroToFirstAgent.Olama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T04:47:53.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
