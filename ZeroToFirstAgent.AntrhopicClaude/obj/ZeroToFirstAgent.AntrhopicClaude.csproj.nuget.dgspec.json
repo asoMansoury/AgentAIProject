@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.AntrhopicClaude\\ZeroToFirstAgent.AntrhopicClaude.csproj": {}
+    "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ZeroToFirstAgent.AntrhopicClaude\\ZeroToFirstAgent.AntrhopicClaude.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.AntrhopicClaude\\ZeroToFirstAgent.AntrhopicClaude.csproj": {
+    "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ZeroToFirstAgent.AntrhopicClaude\\ZeroToFirstAgent.AntrhopicClaude.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.AntrhopicClaude\\ZeroToFirstAgent.AntrhopicClaude.csproj",
+        "projectUniqueName": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ZeroToFirstAgent.AntrhopicClaude\\ZeroToFirstAgent.AntrhopicClaude.csproj",
         "projectName": "ZeroToFirstAgent.AntrhopicClaude",
-        "projectPath": "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.AntrhopicClaude\\ZeroToFirstAgent.AntrhopicClaude.csproj",
-        "packagesPath": "C:\\Users\\RMansouri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.AntrhopicClaude\\obj\\",
+        "projectPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ZeroToFirstAgent.AntrhopicClaude\\ZeroToFirstAgent.AntrhopicClaude.csproj",
+        "packagesPath": "C:\\Users\\asoMan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ZeroToFirstAgent.AntrhopicClaude\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\RMansouri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asoMan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,27 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Anthropic.SDK": {
-              "target": "Package",
-              "version": "[5.8.0, )"
-            },
-            "Microsoft.Agents.AI": {
-              "target": "Package",
-              "version": "[1.0.0-preview.251219.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -70,12 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

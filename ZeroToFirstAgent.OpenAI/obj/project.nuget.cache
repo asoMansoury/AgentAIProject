@@ -1,30 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AlfLs7zPBOo=",
+  "dgSpecHash": "SjSSJDI73Oocq4rd+1Z6aVowExETfQCFBV7JFNyv8SqAhGdsK/HMO0yx0kO6bz+jH7E0uAizSx8aWFldO3Oozw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RMansouri\\source\\repos\\Shared\\ZeroToFirstAgent.OpenAI\\ZeroToFirstAgent.OpenAI.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.agents.ai\\1.0.0-preview.251219.1\\microsoft.agents.ai.1.0.0-preview.251219.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.agents.ai.abstractions\\1.0.0-preview.251219.1\\microsoft.agents.ai.abstractions.1.0.0-preview.251219.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.agents.ai.openai\\1.0.0-preview.251219.1\\microsoft.agents.ai.openai.1.0.0-preview.251219.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.extensions.ai\\10.1.1\\microsoft.extensions.ai.10.1.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.1.1\\microsoft.extensions.ai.abstractions.10.1.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.extensions.ai.openai\\10.1.1-preview.1.25612.2\\microsoft.extensions.ai.openai.10.1.1-preview.1.25612.2.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.1\\microsoft.extensions.caching.abstractions.10.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.1\\microsoft.extensions.logging.abstractions.10.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.1\\microsoft.extensions.primitives.10.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\9.7.0\\microsoft.extensions.vectordata.abstractions.9.7.0.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\openai\\2.8.0\\openai.2.8.0.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\system.clientmodel\\1.8.1\\system.clientmodel.1.8.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.1\\system.diagnostics.diagnosticsource.10.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\system.io.pipelines\\10.0.1\\system.io.pipelines.10.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\system.net.serversentevents\\10.0.0\\system.net.serversentevents.10.0.0.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\system.numerics.tensors\\10.0.1\\system.numerics.tensors.10.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\system.text.encodings.web\\10.0.1\\system.text.encodings.web.10.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\system.text.json\\10.0.1\\system.text.json.10.0.1.nupkg.sha512",
-    "C:\\Users\\RMansouri\\.nuget\\packages\\system.threading.channels\\10.0.1\\system.threading.channels.10.0.1.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ZeroToFirstAgent.OpenAI\\ZeroToFirstAgent.OpenAI.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
