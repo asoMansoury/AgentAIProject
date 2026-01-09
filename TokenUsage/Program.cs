@@ -14,8 +14,10 @@ AIAgent agent = client.GetChatClient("sdfsdf").CreateAIAgent("You are a Friendly
 string question = "What is the capital of France and how many people live there?";
 
 AgentRunResponse response = await agent.RunAsync(question);
-Console.WriteLine($"- Input Tokens : {response.Usage?.InputTokenCount}");
-Console.WriteLine($"- Output Tokens : {response.Usage?.OutputTokenCount}");
+Console.Write(response);
+
+Console.Write($"- Input Tokens : {response.Usage?.InputTokenCount}");
+Console.Write($"- Output Tokens : {response.Usage?.OutputTokenCount}");
 
 List<AgentRunResponseUpdate> updates = new List<AgentRunResponseUpdate>();
 await foreach(AgentRunResponseUpdate update in agent.RunStreamingAsync(question))
