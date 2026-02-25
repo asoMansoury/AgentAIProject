@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "CC614qykQJArbx5z8KqTsBCHmXQF7lWWhL7kR3oTgTo/Gvi/xKfZkCVsNThdRrmxh3llwjzA/0HYlcWJS3/h0g==",
+  "dgSpecHash": "4TX7lU+PiEQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ZeroToFirstAgent.GoogleGemini\\ZeroToFirstAgent.GoogleGemini.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\asoMan\\.nuget\\packages\\google_generativeai\\3.6.1\\google_generativeai.3.6.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\google_generativeai.microsoft\\3.6.1\\google_generativeai.microsoft.3.6.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.agents.ai\\1.0.0-preview.251219.1\\microsoft.agents.ai.1.0.0-preview.251219.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.agents.ai.abstractions\\1.0.0-preview.251219.1\\microsoft.agents.ai.abstractions.1.0.0-preview.251219.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.ai\\10.1.1\\microsoft.extensions.ai.10.1.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.1.1\\microsoft.extensions.ai.abstractions.10.1.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.1\\microsoft.extensions.caching.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.3\\microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.logging\\9.0.3\\microsoft.extensions.logging.9.0.3.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.1\\microsoft.extensions.logging.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.options\\9.0.3\\microsoft.extensions.options.9.0.3.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.1\\microsoft.extensions.primitives.10.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\9.7.0\\microsoft.extensions.vectordata.abstractions.9.7.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.1\\system.diagnostics.diagnosticsource.10.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\system.io.pipelines\\10.0.1\\system.io.pipelines.10.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\system.numerics.tensors\\10.0.1\\system.numerics.tensors.10.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\system.text.encodings.web\\10.0.1\\system.text.encodings.web.10.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\system.text.json\\10.0.1\\system.text.json.10.0.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\system.threading.channels\\10.0.1\\system.threading.channels.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

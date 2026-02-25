@@ -1,0 +1,64 @@
+﻿// See https://aka.ms/new-console-template for more information
+using Azure.AI.OpenAI;
+using Microsoft.Agents.AI;
+using Microsoft.Extensions.AI;
+using ModelContextProtocol.Client;
+using OpenAI.Chat;
+using Shared;
+using System.ClientModel;
+using System.Text;
+
+Console.WriteLine("Hello, World!");
+Secrets secrets = SecretManager.GetSecrets();
+
+AzureOpenAIClient client = new(new Uri(secrets.AzureOpenAiEndpoint), new ApiKeyCredential(secrets.AzureOpenAiKey));
+
+await using McpClient gitHubMcpClient = await McpClient.CreateAsync(new HttpClientTransport(new HttpClientTransportOptions
+{
+    TransportMode = HttpTransportMode.StreamableHttp,
+    Endpoint = new Uri("https://api.githubcopilot.com/mcp"),
+    AdditionalHeaders = new Dictionary<string, string>
+    {
+        { "Authorization: ", secrets.GitHubPatToken }
+    }
+}));
+
+IList<McpClientTool> toolsInGithubMcp = await gitHubMcpClient.ListToolsAsync();
+AIAgent agent = client
+                .GetChatClient(secrets.ChatDeploymentName)
+                .AsAIAgent(
+                            instructions: "You are a helpful assistant.",
+                            tools: toolsInGithubMcp.Cast<AITool>().ToList()
+                            )
+                .AsBuilder()
+                .Use(FunctionCallMiddleware)
+                .Build();
+
+AgentThread thread = await agent.GetNewThreadAsync();
+
+while (true)
+{
+    Console.Write("> ");
+    string? input = Console.ReadLine();
+
+    Microsoft.Extensions.AI.ChatMessage message = new(ChatRole.User, input);
+    AgentResponse response = await agent.RunAsync(message, thread);
+
+    Console.WriteLine(response.ToString());
+    Utils.Separator();
+}
+
+
+async ValueTask<object?> FunctionCallMiddleware(AIAgent callingAgent, FunctionInvocationContext context, Func<FunctionInvocationContext, CancellationToken, ValueTask<object?>> next, CancellationToken cancellationToken)
+{
+    StringBuilder functionCallDetails = new();
+    functionCallDetails.Append($"- Tool Call: '{context.Function.Name}'");
+    if (context.Arguments.Count > 0)
+    {
+        functionCallDetails.Append($" (Args: {string.Join(",", context.Arguments.Select(x => $"[{x.Key} = {x.Value}]"))}");
+    }
+
+    Utils.WriteLineDarkGray(functionCallDetails.ToString());
+
+    return await next(context, cancellationToken);
+}
