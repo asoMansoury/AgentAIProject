@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F619C9FE-4668-47D6-9D56-F8E07B318567}|AgentInputData\\AgentInputData.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agentinputdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F619C9FE-4668-47D6-9D56-F8E07B318567}|AgentInputData\\AgentInputData.csproj|solutionrelative:agentinputdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D994CA8-6CDC-4E71-AC34-7115484E3F62}|ReasoningEffort\\ReasoningEffort.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\reasoningeffort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D994CA8-6CDC-4E71-AC34-7115484E3F62}|ReasoningEffort\\ReasoningEffort.csproj|solutionrelative:reasoningeffort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ReasoningEffort\\Program.cs",
               "RelativeDocumentMoniker": "ReasoningEffort\\Program.cs",
               "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ReasoningEffort\\Program.cs",
               "RelativeToolTip": "ReasoningEffort\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T03:15:48.147Z",
+              "WhenOpened": "2026-02-26T03:59:35.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentInputData\\Program.cs",
+              "RelativeDocumentMoniker": "AgentInputData\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentInputData\\Program.cs",
+              "RelativeToolTip": "AgentInputData\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T03:51:58.039Z",
               "EditorCaption": ""
             }
           ]

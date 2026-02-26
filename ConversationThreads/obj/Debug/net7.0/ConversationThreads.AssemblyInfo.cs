@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversationThreads")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+402bfacba438f258e408b06fee0283f0be611a6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6335efc2b0a1ef43bd061103370ede580c9f72d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversationThreads")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversationThreads")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
