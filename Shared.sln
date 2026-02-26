@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolCalling.FromAnMcpServer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredOutput", "StructuredOutput\StructuredOutput.csproj", "{4C40A563-F9AA-4B87-98BD-FECD5572370A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReasoningEffort", "ReasoningEffort\ReasoningEffort.csproj", "{4D994CA8-6CDC-4E71-AC34-7115484E3F62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,10 @@ Global
 		{4C40A563-F9AA-4B87-98BD-FECD5572370A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C40A563-F9AA-4B87-98BD-FECD5572370A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C40A563-F9AA-4B87-98BD-FECD5572370A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D994CA8-6CDC-4E71-AC34-7115484E3F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D994CA8-6CDC-4E71-AC34-7115484E3F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D994CA8-6CDC-4E71-AC34-7115484E3F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D994CA8-6CDC-4E71-AC34-7115484E3F62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -136,6 +142,7 @@ Global
 		{AE0C91B3-F97F-4EF0-ACD3-8EEE349614FB} = {FD9450F9-A7E3-442B-9D73-3A6CB83E0930}
 		{59F286DC-32A9-4549-82C9-F2993C579BC3} = {AE0C91B3-F97F-4EF0-ACD3-8EEE349614FB}
 		{4C40A563-F9AA-4B87-98BD-FECD5572370A} = {FD9450F9-A7E3-442B-9D73-3A6CB83E0930}
+		{4D994CA8-6CDC-4E71-AC34-7115484E3F62} = {FD9450F9-A7E3-442B-9D73-3A6CB83E0930}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}

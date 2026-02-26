@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C40A563-F9AA-4B87-98BD-FECD5572370A}|StructuredOutput\\StructuredOutput.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\structuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C40A563-F9AA-4B87-98BD-FECD5572370A}|StructuredOutput\\StructuredOutput.csproj|solutionrelative:structuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{59F286DC-32A9-4549-82C9-F2993C579BC3}|ToolCalling.FromAnMcpServer\\ToolCalling.FromAnMcpServer.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\toolcalling.fromanmcpserver\\models\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59F286DC-32A9-4549-82C9-F2993C579BC3}|ToolCalling.FromAnMcpServer\\ToolCalling.FromAnMcpServer.csproj|solutionrelative:toolcalling.fromanmcpserver\\models\\movieresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D994CA8-6CDC-4E71-AC34-7115484E3F62}|ReasoningEffort\\ReasoningEffort.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\reasoningeffort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D994CA8-6CDC-4E71-AC34-7115484E3F62}|ReasoningEffort\\ReasoningEffort.csproj|solutionrelative:reasoningeffort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MovieResult.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.FromAnMcpServer\\Models\\MovieResult.cs",
-              "RelativeDocumentMoniker": "ToolCalling.FromAnMcpServer\\Models\\MovieResult.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.FromAnMcpServer\\Models\\MovieResult.cs",
-              "RelativeToolTip": "ToolCalling.FromAnMcpServer\\Models\\MovieResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T03:00:08.717Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\StructuredOutput\\Program.cs",
-              "RelativeDocumentMoniker": "StructuredOutput\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\StructuredOutput\\Program.cs",
-              "RelativeToolTip": "StructuredOutput\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACgAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ReasoningEffort\\Program.cs",
+              "RelativeDocumentMoniker": "ReasoningEffort\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ReasoningEffort\\Program.cs",
+              "RelativeToolTip": "ReasoningEffort\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T02:32:33.972Z",
+              "WhenOpened": "2026-02-26T03:15:48.147Z",
               "EditorCaption": ""
             }
           ]
