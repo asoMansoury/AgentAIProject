@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F286DC-32A9-4549-82C9-F2993C579BC3}|ToolCalling.FromAnMcpServer\\ToolCalling.FromAnMcpServer.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\toolcalling.fromanmcpserver\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F286DC-32A9-4549-82C9-F2993C579BC3}|ToolCalling.FromAnMcpServer\\ToolCalling.FromAnMcpServer.csproj|solutionrelative:toolcalling.fromanmcpserver\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C40A563-F9AA-4B87-98BD-FECD5572370A}|StructuredOutput\\StructuredOutput.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\structuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C40A563-F9AA-4B87-98BD-FECD5572370A}|StructuredOutput\\StructuredOutput.csproj|solutionrelative:structuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F286DC-32A9-4549-82C9-F2993C579BC3}|ToolCalling.FromAnMcpServer\\ToolCalling.FromAnMcpServer.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\toolcalling.fromanmcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F286DC-32A9-4549-82C9-F2993C579BC3}|ToolCalling.FromAnMcpServer\\ToolCalling.FromAnMcpServer.csproj|solutionrelative:toolcalling.fromanmcpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C40A563-F9AA-4B87-98BD-FECD5572370A}|StructuredOutput\\StructuredOutput.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\structuredoutput\\structuredoutput.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C40A563-F9AA-4B87-98BD-FECD5572370A}|StructuredOutput\\StructuredOutput.csproj|solutionrelative:structuredoutput\\structuredoutput.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.FromAnMcpServer\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "ToolCalling.FromAnMcpServer\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.FromAnMcpServer\\Models\\Movie.cs",
+              "RelativeToolTip": "ToolCalling.FromAnMcpServer\\Models\\Movie.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:54:00.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.FromAnMcpServer\\Program.cs",
+              "RelativeDocumentMoniker": "ToolCalling.FromAnMcpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.FromAnMcpServer\\Program.cs",
+              "RelativeToolTip": "ToolCalling.FromAnMcpServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:39:41.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StructuredOutput",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\StructuredOutput\\StructuredOutput.csproj",
+              "RelativeDocumentMoniker": "StructuredOutput\\StructuredOutput.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\StructuredOutput\\StructuredOutput.csproj",
+              "RelativeToolTip": "StructuredOutput\\StructuredOutput.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T02:37:55.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\StructuredOutput\\Program.cs",
+              "RelativeDocumentMoniker": "StructuredOutput\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\StructuredOutput\\Program.cs",
+              "RelativeToolTip": "StructuredOutput\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T02:32:33.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
