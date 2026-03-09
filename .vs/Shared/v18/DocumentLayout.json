@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F619C9FE-4668-47D6-9D56-F8E07B318567}|AgentInputData\\AgentInputData.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agentinputdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F619C9FE-4668-47D6-9D56-F8E07B318567}|AgentInputData\\AgentInputData.csproj|solutionrelative:agentinputdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D994CA8-6CDC-4E71-AC34-7115484E3F62}|ReasoningEffort\\ReasoningEffort.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\reasoningeffort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D994CA8-6CDC-4E71-AC34-7115484E3F62}|ReasoningEffort\\ReasoningEffort.csproj|solutionrelative:reasoningeffort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E196009B-6739-4FD0-B66E-ED839A45D05A}|Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\workflow.aiassisted.pizzasample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E196009B-6739-4FD0-B66E-ED839A45D05A}|Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj|solutionrelative:workflow.aiassisted.pizzasample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ReasoningEffort\\Program.cs",
-              "RelativeDocumentMoniker": "ReasoningEffort\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ReasoningEffort\\Program.cs",
-              "RelativeToolTip": "ReasoningEffort\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T03:59:35.836Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentInputData\\Program.cs",
-              "RelativeDocumentMoniker": "AgentInputData\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentInputData\\Program.cs",
-              "RelativeToolTip": "AgentInputData\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAAAFwAAAAEAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.AiAssisted.PizzaSample\\Program.cs",
+              "RelativeDocumentMoniker": "Workflow.AiAssisted.PizzaSample\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.AiAssisted.PizzaSample\\Program.cs",
+              "RelativeToolTip": "Workflow.AiAssisted.PizzaSample\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswDwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T03:51:58.039Z",
+              "WhenOpened": "2026-03-05T03:29:54.21Z",
               "EditorCaption": ""
             }
           ]
