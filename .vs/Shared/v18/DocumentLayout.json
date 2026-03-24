@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C71E05F-4DC8-4425-B296-B1704BB45277}|Multi-Agent.AgentAsTool\\Multi-Agent.AgentAsTool.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\multi-agent.agentastool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C71E05F-4DC8-4425-B296-B1704BB45277}|Multi-Agent.AgentAsTool\\Multi-Agent.AgentAsTool.csproj|solutionrelative:multi-agent.agentastool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B58AD46D-4191-4AFF-A04D-73AD11D41679}|MultiAgent.ManualViaStructuredOutput\\MultiAgent.ManualViaStructuredOutput.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\multiagent.manualviastructuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B58AD46D-4191-4AFF-A04D-73AD11D41679}|MultiAgent.ManualViaStructuredOutput\\MultiAgent.ManualViaStructuredOutput.csproj|solutionrelative:multiagent.manualviastructuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E196009B-6739-4FD0-B66E-ED839A45D05A}|Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\workflow.aiassisted.pizzasample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E196009B-6739-4FD0-B66E-ED839A45D05A}|Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj|solutionrelative:workflow.aiassisted.pizzasample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E196009B-6739-4FD0-B66E-ED839A45D05A}|Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\workflow.aiassisted.pizzasample\\workflow.aiassisted.pizzasample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E196009B-6739-4FD0-B66E-ED839A45D05A}|Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj|solutionrelative:workflow.aiassisted.pizzasample\\workflow.aiassisted.pizzasample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,42 +21,33 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.AiAssisted.PizzaSample\\Program.cs",
-              "RelativeDocumentMoniker": "Workflow.AiAssisted.PizzaSample\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.AiAssisted.PizzaSample\\Program.cs",
-              "RelativeToolTip": "Workflow.AiAssisted.PizzaSample\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T04:01:15.829Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Workflow.AiAssisted.PizzaSample",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj",
-              "RelativeDocumentMoniker": "Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj",
-              "RelativeToolTip": "Workflow.AiAssisted.PizzaSample\\Workflow.AiAssisted.PizzaSample.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-09T03:58:57.524Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
+              "RelativeDocumentMoniker": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
+              "RelativeToolTip": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T01:59:58.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "RelativeDocumentMoniker": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "RelativeToolTip": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswEAAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Multi-Agent.AgentAsTool\\Program.cs",
+              "RelativeDocumentMoniker": "Multi-Agent.AgentAsTool\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Multi-Agent.AgentAsTool\\Program.cs",
+              "RelativeToolTip": "Multi-Agent.AgentAsTool\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T03:53:28.078Z",
+              "WhenOpened": "2026-03-24T01:58:53.592Z",
               "EditorCaption": ""
             }
           ]

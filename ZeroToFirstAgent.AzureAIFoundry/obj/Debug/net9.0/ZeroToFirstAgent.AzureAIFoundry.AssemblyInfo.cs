@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZeroToFirstAgent.AzureAIFoundry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+899d43cc42144617005b1e47bc3a4e81ed4cc4aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f921c69febd74d43b4a1507bcd653b8247ae6e80")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeroToFirstAgent.AzureAIFoundry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeroToFirstAgent.AzureAIFoundry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
