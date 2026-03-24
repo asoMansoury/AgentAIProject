@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiAgent.ManualViaStructu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-Agent.AgentAsTool", "Multi-Agent.AgentAsTool\Multi-Agent.AgentAsTool.csproj", "{8C71E05F-4DC8-4425-B296-B1704BB45277}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Agetic Wrokflows", "Agetic Wrokflows", "{157159DE-F2A9-4C2C-8889-7804596A8163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow.Sequential", "Workflow.Sequential\Workflow.Sequential.csproj", "{748E6F24-7BB5-4467-93EC-0E3A75A4C826}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,10 @@ Global
 		{8C71E05F-4DC8-4425-B296-B1704BB45277}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C71E05F-4DC8-4425-B296-B1704BB45277}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C71E05F-4DC8-4425-B296-B1704BB45277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748E6F24-7BB5-4467-93EC-0E3A75A4C826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748E6F24-7BB5-4467-93EC-0E3A75A4C826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748E6F24-7BB5-4467-93EC-0E3A75A4C826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748E6F24-7BB5-4467-93EC-0E3A75A4C826}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -176,6 +184,8 @@ Global
 		{E196009B-6739-4FD0-B66E-ED839A45D05A} = {400398A0-D620-421D-88EE-0318CAEB866E}
 		{B58AD46D-4191-4AFF-A04D-73AD11D41679} = {89E8666C-34BA-4233-B8CD-CA015B75CCB3}
 		{8C71E05F-4DC8-4425-B296-B1704BB45277} = {89E8666C-34BA-4233-B8CD-CA015B75CCB3}
+		{157159DE-F2A9-4C2C-8889-7804596A8163} = {89E8666C-34BA-4233-B8CD-CA015B75CCB3}
+		{748E6F24-7BB5-4467-93EC-0E3A75A4C826} = {157159DE-F2A9-4C2C-8889-7804596A8163}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}
