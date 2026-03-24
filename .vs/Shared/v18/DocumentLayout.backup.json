@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C71E05F-4DC8-4425-B296-B1704BB45277}|Multi-Agent.AgentAsTool\\Multi-Agent.AgentAsTool.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\multi-agent.agentastool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C71E05F-4DC8-4425-B296-B1704BB45277}|Multi-Agent.AgentAsTool\\Multi-Agent.AgentAsTool.csproj|solutionrelative:multi-agent.agentastool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{748E6F24-7BB5-4467-93EC-0E3A75A4C826}|Workflow.Sequential\\Workflow.Sequential.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\workflow.sequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{748E6F24-7BB5-4467-93EC-0E3A75A4C826}|Workflow.Sequential\\Workflow.Sequential.csproj|solutionrelative:workflow.sequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B58AD46D-4191-4AFF-A04D-73AD11D41679}|MultiAgent.ManualViaStructuredOutput\\MultiAgent.ManualViaStructuredOutput.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\multiagent.manualviastructuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,23 +28,27 @@
               "RelativeDocumentMoniker": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
               "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
               "RelativeToolTip": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAACTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T01:59:58.054Z",
+              "WhenOpened": "2026-03-24T02:26:30.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Multi-Agent.AgentAsTool\\Program.cs",
-              "RelativeDocumentMoniker": "Multi-Agent.AgentAsTool\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Multi-Agent.AgentAsTool\\Program.cs",
-              "RelativeToolTip": "Multi-Agent.AgentAsTool\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Sequential\\Program.cs",
+              "RelativeDocumentMoniker": "Workflow.Sequential\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Sequential\\Program.cs",
+              "RelativeToolTip": "Workflow.Sequential\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T01:58:53.592Z",
+              "WhenOpened": "2026-03-24T02:25:55.483Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

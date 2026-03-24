@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZeroToFirstAgent.AntrhopicClaude")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd788633b1d9ce684ad70fbd44d5f0622913f522")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+138ddc82866887d27efc8bcc63f0e6ce59828a25")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeroToFirstAgent.AntrhopicClaude")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeroToFirstAgent.AntrhopicClaude")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
