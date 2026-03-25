@@ -69,6 +69,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow.Concurrent", "Work
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow.Handoff", "Workflow.Handoff\Workflow.Handoff.csproj", "{511AEA34-5F22-484A-B000-FEC43E3FC997}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingsAndConfiguration", "SettingsAndConfiguration\SettingsAndConfiguration.csproj", "{D8719686-BA29-4713-91B0-FA7BDD41E0C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EAABDB84-5F4A-48F5-B496-8B0DEC491FB5}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +174,10 @@ Global
 		{511AEA34-5F22-484A-B000-FEC43E3FC997}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{511AEA34-5F22-484A-B000-FEC43E3FC997}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{511AEA34-5F22-484A-B000-FEC43E3FC997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8719686-BA29-4713-91B0-FA7BDD41E0C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8719686-BA29-4713-91B0-FA7BDD41E0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8719686-BA29-4713-91B0-FA7BDD41E0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8719686-BA29-4713-91B0-FA7BDD41E0C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -200,6 +211,7 @@ Global
 		{748E6F24-7BB5-4467-93EC-0E3A75A4C826} = {157159DE-F2A9-4C2C-8889-7804596A8163}
 		{EBBA3903-3BF0-4B6D-BD9D-211F58F2A6F8} = {157159DE-F2A9-4C2C-8889-7804596A8163}
 		{511AEA34-5F22-484A-B000-FEC43E3FC997} = {157159DE-F2A9-4C2C-8889-7804596A8163}
+		{D8719686-BA29-4713-91B0-FA7BDD41E0C0} = {77078A4E-EF97-4144-B280-EEF5890A0DB1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}

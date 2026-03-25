@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{511AEA34-5F22-484A-B000-FEC43E3FC997}|Workflow.Handoff\\Workflow.Handoff.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\workflow.handoff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{511AEA34-5F22-484A-B000-FEC43E3FC997}|Workflow.Handoff\\Workflow.Handoff.csproj|solutionrelative:workflow.handoff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\settingsandconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|solutionrelative:settingsandconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B58AD46D-4191-4AFF-A04D-73AD11D41679}|MultiAgent.ManualViaStructuredOutput\\MultiAgent.ManualViaStructuredOutput.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\multiagent.manualviastructuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B58AD46D-4191-4AFF-A04D-73AD11D41679}|MultiAgent.ManualViaStructuredOutput\\MultiAgent.ManualViaStructuredOutput.csproj|solutionrelative:multiagent.manualviastructuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\settingsandconfiguration\\settingsandconfiguration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|solutionrelative:settingsandconfiguration\\settingsandconfiguration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,22 +36,35 @@
               "RelativeDocumentMoniker": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
               "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
               "RelativeToolTip": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T02:48:10.062Z",
+              "WhenOpened": "2026-03-25T02:56:11.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsAndConfiguration",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
+              "RelativeDocumentMoniker": "SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
+              "RelativeToolTip": "SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T02:55:23.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Handoff\\Program.cs",
-              "RelativeDocumentMoniker": "Workflow.Handoff\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Handoff\\Program.cs",
-              "RelativeToolTip": "Workflow.Handoff\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAE4AAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\Program.cs",
+              "RelativeDocumentMoniker": "SettingsAndConfiguration\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\Program.cs",
+              "RelativeToolTip": "SettingsAndConfiguration\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T02:47:32.093Z",
+              "WhenOpened": "2026-03-25T02:55:04.736Z",
               "EditorCaption": ""
             }
           ]

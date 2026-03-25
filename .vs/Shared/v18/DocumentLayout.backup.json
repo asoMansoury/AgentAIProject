@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBBA3903-3BF0-4B6D-BD9D-211F58F2A6F8}|Workflow.Concurrent\\Workflow.Concurrent.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\workflow.concurrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBBA3903-3BF0-4B6D-BD9D-211F58F2A6F8}|Workflow.Concurrent\\Workflow.Concurrent.csproj|solutionrelative:workflow.concurrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\settingsandconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|solutionrelative:settingsandconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{748E6F24-7BB5-4467-93EC-0E3A75A4C826}|Workflow.Sequential\\Workflow.Sequential.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\workflow.sequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{748E6F24-7BB5-4467-93EC-0E3A75A4C826}|Workflow.Sequential\\Workflow.Sequential.csproj|solutionrelative:workflow.sequential\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B58AD46D-4191-4AFF-A04D-73AD11D41679}|MultiAgent.ManualViaStructuredOutput\\MultiAgent.ManualViaStructuredOutput.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\multiagent.manualviastructuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58AD46D-4191-4AFF-A04D-73AD11D41679}|MultiAgent.ManualViaStructuredOutput\\MultiAgent.ManualViaStructuredOutput.csproj|solutionrelative:multiagent.manualviastructuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBBA3903-3BF0-4B6D-BD9D-211F58F2A6F8}|Workflow.Concurrent\\Workflow.Concurrent.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\workflow.concurrent\\workflow.concurrent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EBBA3903-3BF0-4B6D-BD9D-211F58F2A6F8}|Workflow.Concurrent\\Workflow.Concurrent.csproj|solutionrelative:workflow.concurrent\\workflow.concurrent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\settingsandconfiguration\\settingsandconfiguration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|solutionrelative:settingsandconfiguration\\settingsandconfiguration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,39 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Sequential\\Program.cs",
-              "RelativeDocumentMoniker": "Workflow.Sequential\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Sequential\\Program.cs",
-              "RelativeToolTip": "Workflow.Sequential\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
+              "RelativeDocumentMoniker": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
+              "RelativeToolTip": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T02:40:33.919Z",
+              "WhenOpened": "2026-03-25T02:56:11.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Workflow.Concurrent",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Concurrent\\Workflow.Concurrent.csproj",
-              "RelativeDocumentMoniker": "Workflow.Concurrent\\Workflow.Concurrent.csproj",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Concurrent\\Workflow.Concurrent.csproj",
-              "RelativeToolTip": "Workflow.Concurrent\\Workflow.Concurrent.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Title": "SettingsAndConfiguration",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
+              "RelativeDocumentMoniker": "SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
+              "RelativeToolTip": "SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-24T02:39:54.696Z",
+              "WhenOpened": "2026-03-25T02:55:23.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Concurrent\\Program.cs",
-              "RelativeDocumentMoniker": "Workflow.Concurrent\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Workflow.Concurrent\\Program.cs",
-              "RelativeToolTip": "Workflow.Concurrent\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAC0AAABQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\Program.cs",
+              "RelativeDocumentMoniker": "SettingsAndConfiguration\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\Program.cs",
+              "RelativeToolTip": "SettingsAndConfiguration\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwD8AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T02:39:38.087Z",
+              "WhenOpened": "2026-03-25T02:55:04.736Z",
               "EditorCaption": ""
             }
           ]
