@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\settingsandconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|solutionrelative:settingsandconfiguration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81FC0309-7A2F-4F44-B438-4748C68899E0}|UsingRagInAgentFramework\\UsingRagInAgentFramework.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\usingraginagentframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FC0309-7A2F-4F44-B438-4748C68899E0}|UsingRagInAgentFramework\\UsingRagInAgentFramework.csproj|solutionrelative:usingraginagentframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B58AD46D-4191-4AFF-A04D-73AD11D41679}|MultiAgent.ManualViaStructuredOutput\\MultiAgent.ManualViaStructuredOutput.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\multiagent.manualviastructuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B58AD46D-4191-4AFF-A04D-73AD11D41679}|MultiAgent.ManualViaStructuredOutput\\MultiAgent.ManualViaStructuredOutput.csproj|solutionrelative:multiagent.manualviastructuredoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C71E05F-4DC8-4425-B296-B1704BB45277}|Multi-Agent.AgentAsTool\\Multi-Agent.AgentAsTool.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\multi-agent.agentastool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C71E05F-4DC8-4425-B296-B1704BB45277}|Multi-Agent.AgentAsTool\\Multi-Agent.AgentAsTool.csproj|solutionrelative:multi-agent.agentastool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\settingsandconfiguration\\settingsandconfiguration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D8719686-BA29-4713-91B0-FA7BDD41E0C0}|SettingsAndConfiguration\\SettingsAndConfiguration.csproj|solutionrelative:settingsandconfiguration\\settingsandconfiguration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{81FC0309-7A2F-4F44-B438-4748C68899E0}|UsingRagInAgentFramework\\UsingRagInAgentFramework.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\usingraginagentframework\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FC0309-7A2F-4F44-B438-4748C68899E0}|UsingRagInAgentFramework\\UsingRagInAgentFramework.csproj|solutionrelative:usingraginagentframework\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,39 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "RelativeDocumentMoniker": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "RelativeToolTip": "MultiAgent.ManualViaStructuredOutput\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Multi-Agent.AgentAsTool\\Program.cs",
+              "RelativeDocumentMoniker": "Multi-Agent.AgentAsTool\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Multi-Agent.AgentAsTool\\Program.cs",
+              "RelativeToolTip": "Multi-Agent.AgentAsTool\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T02:56:11.138Z",
+              "WhenOpened": "2026-03-30T03:15:56.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SettingsAndConfiguration",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
-              "RelativeDocumentMoniker": "SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
-              "RelativeToolTip": "SettingsAndConfiguration\\SettingsAndConfiguration.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T02:55:23.333Z",
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UsingRagInAgentFramework\\Movie.cs",
+              "RelativeDocumentMoniker": "UsingRagInAgentFramework\\Movie.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UsingRagInAgentFramework\\Movie.cs",
+              "RelativeToolTip": "UsingRagInAgentFramework\\Movie.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T03:12:58.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\Program.cs",
-              "RelativeDocumentMoniker": "SettingsAndConfiguration\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\SettingsAndConfiguration\\Program.cs",
-              "RelativeToolTip": "SettingsAndConfiguration\\Program.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHUAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UsingRagInAgentFramework\\Program.cs",
+              "RelativeDocumentMoniker": "UsingRagInAgentFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UsingRagInAgentFramework\\Program.cs",
+              "RelativeToolTip": "UsingRagInAgentFramework\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T02:55:04.736Z",
+              "WhenOpened": "2026-03-30T03:12:20.613Z",
               "EditorCaption": ""
             }
           ]

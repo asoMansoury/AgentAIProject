@@ -76,6 +76,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RAG", "RAG", "{EDFE272F-BAA6-4AE5-B156-295F3CAF70A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingRagInAgentFramework", "UsingRagInAgentFramework\UsingRagInAgentFramework.csproj", "{81FC0309-7A2F-4F44-B438-4748C68899E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -178,6 +182,10 @@ Global
 		{D8719686-BA29-4713-91B0-FA7BDD41E0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8719686-BA29-4713-91B0-FA7BDD41E0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8719686-BA29-4713-91B0-FA7BDD41E0C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FC0309-7A2F-4F44-B438-4748C68899E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FC0309-7A2F-4F44-B438-4748C68899E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FC0309-7A2F-4F44-B438-4748C68899E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FC0309-7A2F-4F44-B438-4748C68899E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -212,6 +220,7 @@ Global
 		{EBBA3903-3BF0-4B6D-BD9D-211F58F2A6F8} = {157159DE-F2A9-4C2C-8889-7804596A8163}
 		{511AEA34-5F22-484A-B000-FEC43E3FC997} = {157159DE-F2A9-4C2C-8889-7804596A8163}
 		{D8719686-BA29-4713-91B0-FA7BDD41E0C0} = {77078A4E-EF97-4144-B280-EEF5890A0DB1}
+		{81FC0309-7A2F-4F44-B438-4748C68899E0} = {EDFE272F-BAA6-4AE5-B156-295F3CAF70A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}

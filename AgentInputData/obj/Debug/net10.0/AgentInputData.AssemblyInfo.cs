@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgentInputData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d48acaef020d26bbc079a203f3e540d7fb189411")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03db08a57f006379888e10ed7cd59aca34550c4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgentInputData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgentInputData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
