@@ -128,7 +128,7 @@ if (context.Arguments.Count > 0)
     functionCallDetails.Append($" (Args: {string.Join(",", context.Arguments.Select(x => $"[{x.Key} = {x.Value}]"))}");
 }
 
-Utils.Gray(functionCallDetails.ToString());
+Utils.WriteLineDarkGray(functionCallDetails.ToString());
 
 return await next(context, cancellationToken);
 }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81FC0309-7A2F-4F44-B438-4748C68899E0}|UsingRagInAgentFramework\\UsingRagInAgentFramework.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\usingraginagentframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81FC0309-7A2F-4F44-B438-4748C68899E0}|UsingRagInAgentFramework\\UsingRagInAgentFramework.csproj|solutionrelative:usingraginagentframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\advancedragtechniques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|solutionrelative:advancedragtechniques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C71E05F-4DC8-4425-B296-B1704BB45277}|Multi-Agent.AgentAsTool\\Multi-Agent.AgentAsTool.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\multi-agent.agentastool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C71E05F-4DC8-4425-B296-B1704BB45277}|Multi-Agent.AgentAsTool\\Multi-Agent.AgentAsTool.csproj|solutionrelative:multi-agent.agentastool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\advancedragtechniques\\option2enhanceembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|solutionrelative:advancedragtechniques\\option2enhanceembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81FC0309-7A2F-4F44-B438-4748C68899E0}|UsingRagInAgentFramework\\UsingRagInAgentFramework.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\usingraginagentframework\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81FC0309-7A2F-4F44-B438-4748C68899E0}|UsingRagInAgentFramework\\UsingRagInAgentFramework.csproj|solutionrelative:usingraginagentframework\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\advancedragtechniques\\option1rephrasequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|solutionrelative:advancedragtechniques\\option1rephrasequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Multi-Agent.AgentAsTool\\Program.cs",
-              "RelativeDocumentMoniker": "Multi-Agent.AgentAsTool\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Multi-Agent.AgentAsTool\\Program.cs",
-              "RelativeToolTip": "Multi-Agent.AgentAsTool\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Option1RephraseQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Option1RephraseQuestion.cs",
+              "RelativeDocumentMoniker": "AdvancedRAGTechniques\\Option1RephraseQuestion.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Option1RephraseQuestion.cs",
+              "RelativeToolTip": "AdvancedRAGTechniques\\Option1RephraseQuestion.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T03:15:56.93Z",
+              "WhenOpened": "2026-04-01T03:43:23.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UsingRagInAgentFramework\\Movie.cs",
-              "RelativeDocumentMoniker": "UsingRagInAgentFramework\\Movie.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UsingRagInAgentFramework\\Movie.cs",
-              "RelativeToolTip": "UsingRagInAgentFramework\\Movie.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Option2EnhanceEmbeddings.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Option2EnhanceEmbeddings.cs",
+              "RelativeDocumentMoniker": "AdvancedRAGTechniques\\Option2EnhanceEmbeddings.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Option2EnhanceEmbeddings.cs",
+              "RelativeToolTip": "AdvancedRAGTechniques\\Option2EnhanceEmbeddings.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T03:12:58.429Z",
+              "WhenOpened": "2026-04-01T03:28:52.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UsingRagInAgentFramework\\Program.cs",
-              "RelativeDocumentMoniker": "UsingRagInAgentFramework\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UsingRagInAgentFramework\\Program.cs",
-              "RelativeToolTip": "UsingRagInAgentFramework\\Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG8AAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Program.cs",
+              "RelativeDocumentMoniker": "AdvancedRAGTechniques\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Program.cs",
+              "RelativeToolTip": "AdvancedRAGTechniques\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T03:12:20.613Z",
+              "WhenOpened": "2026-04-01T02:47:35.19Z",
               "EditorCaption": ""
             }
           ]
