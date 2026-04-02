@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZeroToFirstAgent.XAIGrok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d75296bd41ca4f224770f5a2cc4e2e3b6b63966")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2294e0f2b00b2f0f4033065446973a0fc7a6ce18")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeroToFirstAgent.XAIGrok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeroToFirstAgent.XAIGrok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
