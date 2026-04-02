@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|solutionrelative:advancedragtechniques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\advancedragtechniques\\option2enhanceembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|solutionrelative:advancedragtechniques\\option2enhanceembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\advancedragtechniques\\option1rephrasequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|solutionrelative:advancedragtechniques\\option1rephrasequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\advancedragtechniques\\option2enhanceembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|solutionrelative:advancedragtechniques\\option2enhanceembeddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Program.cs",
+              "RelativeDocumentMoniker": "AdvancedRAGTechniques\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Program.cs",
+              "RelativeToolTip": "AdvancedRAGTechniques\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:52:47.935Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Option1RephraseQuestion.cs",
               "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Option1RephraseQuestion.cs",
               "RelativeDocumentMoniker": "AdvancedRAGTechniques\\Option1RephraseQuestion.cs",
@@ -43,28 +56,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Option2EnhanceEmbeddings.cs",
               "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Option2EnhanceEmbeddings.cs",
               "RelativeDocumentMoniker": "AdvancedRAGTechniques\\Option2EnhanceEmbeddings.cs",
               "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Option2EnhanceEmbeddings.cs",
               "RelativeToolTip": "AdvancedRAGTechniques\\Option2EnhanceEmbeddings.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-01T03:28:52.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Program.cs",
-              "RelativeDocumentMoniker": "AdvancedRAGTechniques\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Program.cs",
-              "RelativeToolTip": "AdvancedRAGTechniques\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T02:47:35.19Z",
               "EditorCaption": ""
             }
           ]

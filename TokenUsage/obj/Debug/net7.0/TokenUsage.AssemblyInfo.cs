@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TokenUsage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf087e66fb0e088198294b0c98763795a85d12a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d75296bd41ca4f224770f5a2cc4e2e3b6b63966")]
 [assembly: System.Reflection.AssemblyProductAttribute("TokenUsage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TokenUsage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

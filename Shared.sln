@@ -82,6 +82,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingRagInAgentFramework", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedRAGTechniques", "AdvancedRAGTechniques\AdvancedRAGTechniques.csproj", "{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenAiResponseApi", "OpenAiResponseApi", "{10AA71F7-3CD1-48E4-9EBC-2E96388C2009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAIResponseApi.WebSearch", "OpenAIResponseApi.WebSearch\OpenAIResponseApi.WebSearch.csproj", "{D26B4F89-2AEC-4215-A4A4-6E38C906AAEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -192,6 +196,10 @@ Global
 		{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26B4F89-2AEC-4215-A4A4-6E38C906AAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26B4F89-2AEC-4215-A4A4-6E38C906AAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26B4F89-2AEC-4215-A4A4-6E38C906AAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26B4F89-2AEC-4215-A4A4-6E38C906AAEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -228,6 +236,7 @@ Global
 		{D8719686-BA29-4713-91B0-FA7BDD41E0C0} = {77078A4E-EF97-4144-B280-EEF5890A0DB1}
 		{81FC0309-7A2F-4F44-B438-4748C68899E0} = {EDFE272F-BAA6-4AE5-B156-295F3CAF70A0}
 		{71BEA09C-217E-431A-B4F1-4072C8F0ADA2} = {EDFE272F-BAA6-4AE5-B156-295F3CAF70A0}
+		{D26B4F89-2AEC-4215-A4A4-6E38C906AAEB} = {10AA71F7-3CD1-48E4-9EBC-2E96388C2009}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}
