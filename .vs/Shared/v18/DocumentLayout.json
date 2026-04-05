@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E86FB85-A580-431B-99B6-6697C643C586}|OpenAIResponsesApi.CodeInterpreter\\OpenAIResponsesApi.CodeInterpreter.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\openairesponsesapi.codeinterpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E86FB85-A580-431B-99B6-6697C643C586}|OpenAIResponsesApi.CodeInterpreter\\OpenAIResponsesApi.CodeInterpreter.csproj|solutionrelative:openairesponsesapi.codeinterpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D337EBF3-2D77-49C5-9911-37A0C25BA660}|OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\openairesponsesapi.reasoningsummary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D337EBF3-2D77-49C5-9911-37A0C25BA660}|OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj|solutionrelative:openairesponsesapi.reasoningsummary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E86FB85-A580-431B-99B6-6697C643C586}|OpenAIResponsesApi.CodeInterpreter\\OpenAIResponsesApi.CodeInterpreter.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\openairesponsesapi.codeinterpreter\\openairesponsesapi.codeinterpreter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0E86FB85-A580-431B-99B6-6697C643C586}|OpenAIResponsesApi.CodeInterpreter\\OpenAIResponsesApi.CodeInterpreter.csproj|solutionrelative:openairesponsesapi.codeinterpreter\\openairesponsesapi.codeinterpreter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D337EBF3-2D77-49C5-9911-37A0C25BA660}|OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\openairesponsesapi.reasoningsummary\\openairesponsesapi.reasoningsummary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D337EBF3-2D77-49C5-9911-37A0C25BA660}|OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj|solutionrelative:openairesponsesapi.reasoningsummary\\openairesponsesapi.reasoningsummary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OpenAIResponsesApi.CodeInterpreter",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.CodeInterpreter\\OpenAIResponsesApi.CodeInterpreter.csproj",
-              "RelativeDocumentMoniker": "OpenAIResponsesApi.CodeInterpreter\\OpenAIResponsesApi.CodeInterpreter.csproj",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.CodeInterpreter\\OpenAIResponsesApi.CodeInterpreter.csproj",
-              "RelativeToolTip": "OpenAIResponsesApi.CodeInterpreter\\OpenAIResponsesApi.CodeInterpreter.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Title": "OpenAIResponsesApi.ReasoningSummary",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj",
+              "RelativeDocumentMoniker": "OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj",
+              "RelativeToolTip": "OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-02T02:59:27.502Z",
+              "WhenOpened": "2026-04-05T03:57:34.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.CodeInterpreter\\Program.cs",
-              "RelativeDocumentMoniker": "OpenAIResponsesApi.CodeInterpreter\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.CodeInterpreter\\Program.cs",
-              "RelativeToolTip": "OpenAIResponsesApi.CodeInterpreter\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC4AAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.ReasoningSummary\\Program.cs",
+              "RelativeDocumentMoniker": "OpenAIResponsesApi.ReasoningSummary\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.ReasoningSummary\\Program.cs",
+              "RelativeToolTip": "OpenAIResponsesApi.ReasoningSummary\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T02:59:12.914Z",
+              "WhenOpened": "2026-04-05T03:56:52.172Z",
               "EditorCaption": ""
             }
           ]

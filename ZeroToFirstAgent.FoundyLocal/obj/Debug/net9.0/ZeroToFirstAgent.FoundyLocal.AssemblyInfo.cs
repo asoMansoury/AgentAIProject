@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZeroToFirstAgent.FoundyLocal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2294e0f2b00b2f0f4033065446973a0fc7a6ce18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daad68f106dbb4c76515a38c1f760a1a0758a7cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeroToFirstAgent.FoundyLocal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeroToFirstAgent.FoundyLocal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
