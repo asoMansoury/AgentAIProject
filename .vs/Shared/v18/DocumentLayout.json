@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0472E71F-B318-4585-BB83-0763AED81BBA}|OpenAIResponsesApi.FileSearchTool\\OpenAIResponsesApi.FileSearchTool.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\openairesponsesapi.filesearchtool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0472E71F-B318-4585-BB83-0763AED81BBA}|OpenAIResponsesApi.FileSearchTool\\OpenAIResponsesApi.FileSearchTool.csproj|solutionrelative:openairesponsesapi.filesearchtool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{744F9E9D-544E-4BF7-A821-626353FCA031}|OpenAIResponseApi.SpecialModels\\OpenAIResponseApi.SpecialModels.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\openairesponseapi.specialmodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744F9E9D-544E-4BF7-A821-626353FCA031}|OpenAIResponseApi.SpecialModels\\OpenAIResponseApi.SpecialModels.csproj|solutionrelative:openairesponseapi.specialmodels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.FileSearchTool\\Program.cs",
-              "RelativeDocumentMoniker": "OpenAIResponsesApi.FileSearchTool\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.FileSearchTool\\Program.cs",
-              "RelativeToolTip": "OpenAIResponsesApi.FileSearchTool\\Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAEMAAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponseApi.SpecialModels\\Program.cs",
+              "RelativeDocumentMoniker": "OpenAIResponseApi.SpecialModels\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponseApi.SpecialModels\\Program.cs",
+              "RelativeToolTip": "OpenAIResponseApi.SpecialModels\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T04:16:57.278Z",
+              "WhenOpened": "2026-04-05T04:34:32.001Z",
               "EditorCaption": ""
             }
           ]

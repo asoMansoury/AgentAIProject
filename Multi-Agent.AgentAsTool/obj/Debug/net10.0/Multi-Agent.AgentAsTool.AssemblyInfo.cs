@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multi-Agent.AgentAsTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+828393d529026869f85f4d26e91a75404379ed82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17f1a208ac10bd35a079d37be9cc21329342764a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multi-Agent.AgentAsTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multi-Agent.AgentAsTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
