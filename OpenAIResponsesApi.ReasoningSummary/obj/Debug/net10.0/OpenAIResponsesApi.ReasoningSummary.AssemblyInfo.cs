@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenAIResponsesApi.ReasoningSummary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17f1a208ac10bd35a079d37be9cc21329342764a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad316037f0f1aa5d81fb4db208faf160d6455326")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenAIResponsesApi.ReasoningSummary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenAIResponsesApi.ReasoningSummary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
