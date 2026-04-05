@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D337EBF3-2D77-49C5-9911-37A0C25BA660}|OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\openairesponsesapi.reasoningsummary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D337EBF3-2D77-49C5-9911-37A0C25BA660}|OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj|solutionrelative:openairesponsesapi.reasoningsummary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D337EBF3-2D77-49C5-9911-37A0C25BA660}|OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\openairesponsesapi.reasoningsummary\\openairesponsesapi.reasoningsummary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D337EBF3-2D77-49C5-9911-37A0C25BA660}|OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj|solutionrelative:openairesponsesapi.reasoningsummary\\openairesponsesapi.reasoningsummary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0472E71F-B318-4585-BB83-0763AED81BBA}|OpenAIResponsesApi.FileSearchTool\\OpenAIResponsesApi.FileSearchTool.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\openairesponsesapi.filesearchtool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0472E71F-B318-4585-BB83-0763AED81BBA}|OpenAIResponsesApi.FileSearchTool\\OpenAIResponsesApi.FileSearchTool.csproj|solutionrelative:openairesponsesapi.filesearchtool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OpenAIResponsesApi.ReasoningSummary",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj",
-              "RelativeDocumentMoniker": "OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj",
-              "RelativeToolTip": "OpenAIResponsesApi.ReasoningSummary\\OpenAIResponsesApi.ReasoningSummary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-05T03:57:34.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.ReasoningSummary\\Program.cs",
-              "RelativeDocumentMoniker": "OpenAIResponsesApi.ReasoningSummary\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.ReasoningSummary\\Program.cs",
-              "RelativeToolTip": "OpenAIResponsesApi.ReasoningSummary\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAA/AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.FileSearchTool\\Program.cs",
+              "RelativeDocumentMoniker": "OpenAIResponsesApi.FileSearchTool\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\OpenAIResponsesApi.FileSearchTool\\Program.cs",
+              "RelativeToolTip": "OpenAIResponsesApi.FileSearchTool\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T03:56:52.172Z",
+              "WhenOpened": "2026-04-05T04:16:57.278Z",
               "EditorCaption": ""
             }
           ]

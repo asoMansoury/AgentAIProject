@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenAIResponsesApi.CodeInterpreter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daad68f106dbb4c76515a38c1f760a1a0758a7cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+828393d529026869f85f4d26e91a75404379ed82")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenAIResponsesApi.CodeInterpreter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenAIResponsesApi.CodeInterpreter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
