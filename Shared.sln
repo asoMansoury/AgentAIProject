@@ -98,6 +98,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAIResponseApi.ResumeCon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllowBackgroundResponses", "AllowBackgroundResponses\AllowBackgroundResponses.csproj", "{AED4850C-3055-46E5-A172-BB571CD7389E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchRawRequestAndResponse", "WatchRawRequestAndResponse\WatchRawRequestAndResponse.csproj", "{07181753-22E8-450B-A288-1CD95370DAB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -236,6 +238,10 @@ Global
 		{AED4850C-3055-46E5-A172-BB571CD7389E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED4850C-3055-46E5-A172-BB571CD7389E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED4850C-3055-46E5-A172-BB571CD7389E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07181753-22E8-450B-A288-1CD95370DAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07181753-22E8-450B-A288-1CD95370DAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07181753-22E8-450B-A288-1CD95370DAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07181753-22E8-450B-A288-1CD95370DAB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -279,6 +285,7 @@ Global
 		{744F9E9D-544E-4BF7-A821-626353FCA031} = {10AA71F7-3CD1-48E4-9EBC-2E96388C2009}
 		{5FD0DF2D-B9A3-4D00-A978-7F6F7D20517C} = {10AA71F7-3CD1-48E4-9EBC-2E96388C2009}
 		{AED4850C-3055-46E5-A172-BB571CD7389E} = {FD9450F9-A7E3-442B-9D73-3A6CB83E0930}
+		{07181753-22E8-450B-A288-1CD95370DAB0} = {77078A4E-EF97-4144-B280-EEF5890A0DB1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}
