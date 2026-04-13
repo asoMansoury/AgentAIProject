@@ -104,6 +104,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Telemetry", "Telemetry", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telemetry", "Telemetry\Telemetry.csproj", "{8B1EDC51-DD19-4103-AA3B-3EE5909CFE42}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AzureAiFoundry", "AzureAiFoundry", "{910E590B-3E4D-40E2-86A4-5CA1049C012C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAiFoundry.Administration", "AzureAiFoundry.Administration\AzureAiFoundry.Administration.csproj", "{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -250,6 +254,10 @@ Global
 		{8B1EDC51-DD19-4103-AA3B-3EE5909CFE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B1EDC51-DD19-4103-AA3B-3EE5909CFE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B1EDC51-DD19-4103-AA3B-3EE5909CFE42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -295,6 +303,7 @@ Global
 		{AED4850C-3055-46E5-A172-BB571CD7389E} = {FD9450F9-A7E3-442B-9D73-3A6CB83E0930}
 		{07181753-22E8-450B-A288-1CD95370DAB0} = {77078A4E-EF97-4144-B280-EEF5890A0DB1}
 		{8B1EDC51-DD19-4103-AA3B-3EE5909CFE42} = {DB2642CA-4152-474C-9243-83B2C2035F3A}
+		{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD} = {910E590B-3E4D-40E2-86A4-5CA1049C012C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}

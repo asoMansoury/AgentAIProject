@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenAIResponseApi.SpecialModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cc90d9f707eb1feb3873a79592ae340c72ca8ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0f4d8ad32142aaad4b207322336f7caf2a06f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenAIResponseApi.SpecialModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenAIResponseApi.SpecialModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
