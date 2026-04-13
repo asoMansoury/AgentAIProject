@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZeroToFirstAgent.AzureOpenAi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0f4d8ad32142aaad4b207322336f7caf2a06f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d1178316dda771dd8358f7318d803b29158ad46")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZeroToFirstAgent.AzureOpenAi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZeroToFirstAgent.AzureOpenAi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
