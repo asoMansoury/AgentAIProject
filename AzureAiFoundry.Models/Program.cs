@@ -18,7 +18,8 @@ await CreateAndCallNormalClientAgent("gpt-4o", questionToAsk);
 await CreateAndCallNormalClientAgent("DeepSeek-R1-0528", questionToAsk);
 
 
-
+await CreateAndCallFoundryAgent("gpt-4o", questionToAsk);
+await CreateAndCallFoundryAgent("DeepSeek-R1-0528", questionToAsk);
 async Task CreateAndCallNormalClientAgent(string model, string question)
 {
     AzureOpenAIClient client = new(new Uri(secrets.AzureOpenAiEndpoint), new ApiKeyCredential(secrets.AzureOpenAiKey));
