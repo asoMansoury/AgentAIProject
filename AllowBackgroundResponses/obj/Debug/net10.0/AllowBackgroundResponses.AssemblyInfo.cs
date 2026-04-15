@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AllowBackgroundResponses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d1178316dda771dd8358f7318d803b29158ad46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+299a8375ca16abd3f03137da71ec85c4507cf92f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AllowBackgroundResponses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AllowBackgroundResponses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
