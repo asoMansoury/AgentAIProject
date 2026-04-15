@@ -11,11 +11,10 @@ Secrets secrets = SecretManager.GetSecrets();
 PersistentAgentsClient client = new(secrets.AzureAiFoundryAgentEndpoint, new AzureCliCredential());
 
 Response<PersistentAgent>? aiFoundryAgent = null;
-ChatClientAgentSession? chatClientAgentSession = null;
 try
 {
     aiFoundryAgent = await client.Administration.CreateAgentAsync(
-        "gpt-4.1",
+        "gpt-4o",
         "CodeGraphAgent",
         "",
         "You are a Graph-expert on US States",
@@ -26,53 +25,86 @@ try
 
     Response<PersistentAgent> agent = await client.Administration.GetAgentAsync(aiFoundryAgent.Value.Id);
 
-    AgentSession session = await agent.CreateSessionAsync();
+    var threadOptions = new PersistentAgentThreadCreationOptions();
+    threadOptions.Messages.Add(new ThreadMessageOptions(MessageRole.User, "Make a jpg image with graph listing population of the top 10 US States in year 2000"));
 
-    AgentResponse response = await agent.RunAsync("Make a jpg image with graph listing population of the top 10 US States in year 2000", session);
+    var options = new ThreadAndRunOptions
+    {
+        ThreadOptions = threadOptions
+    };
+
+    Response<ThreadRun> runResponse = await client.CreateThreadAndRunAsync(agent.Value.Id, options);
+    ThreadRun run = runResponse.Value;
+
+    // Wait for completion
+    while (run.Status != RunStatus.Completed && run.Status != RunStatus.Failed)
+    {
+        await Task.Delay(1000);
+        run = (await client.Runs.GetRunAsync(run.ThreadId, run.Id)).Value;
+    }
+
 
     string? fileId = null;
-    string? filename = null;
+    string? fileName = null;
     string? filePath = null;
     string? textToReplace = null;
-    foreach (ChatMessage message in response.Messages)
+
+    if (run.Status == RunStatus.Completed)
     {
-        foreach (AIContent content in message.Contents)
+        var messages = client.Messages.GetMessages(run.ThreadId);
+        foreach(var message in messages)
         {
-            foreach (AIAnnotation annotation in content.Annotations ?? [])
+            foreach(var content in message.ContentItems)
             {
-                if (annotation.RawRepresentation is TextAnnotationUpdate citationAnnotation)
+                if(content is MessageTextContent textContent)
                 {
-                    fileId = citationAnnotation.OutputFileId;
-                    textToReplace = citationAnnotation.TextToReplace;
-                    filename = Path.GetFileName(textToReplace);
+                    textToReplace = textContent.Text;
+                }
+
+                if(content is MessageImageFileContent imageContent)
+                {
+                    fileId = imageContent.FileId;
+                    fileName = "chart.jpg";
+                    filePath = Path.Combine(Environment.CurrentDirectory, fileName);
+
+                    // Download the file
+                    var fileStream = await client.Files.GetFileContentAsync(fileId);
+                    using FileStream fs = File.Create(filePath);
+                    await fileStream.Value.ToStream().CopyToAsync(fs);
                 }
             }
         }
-    }
 
-    if (fileId != null)
-    {
-        Response<BinaryData> fileContent = await client.Files.GetFileContentAsync(fileId);
-        filePath = Path.Combine(Path.GetTempPath(), filename!);
-        await File.WriteAllBytesAsync(filePath, fileContent.Value.ToArray());
-        await Task.Factory.StartNew(() =>
+        if (fileId != null)
         {
-            System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
+            Response<BinaryData> fileContent = await client.Files.GetFileContentAsync(fileId);
+            filePath = Path.Combine(Path.GetTempPath(), fileName!);
+            await File.WriteAllBytesAsync(filePath, fileContent.Value.ToArray());
+            await Task.Factory.StartNew(() =>
             {
-                FileName = filePath,
-                UseShellExecute = true
+                System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
+                {
+                    FileName = filePath,
+                    UseShellExecute = true
+                });
             });
-        });
+        }
+
+    //    Console.WriteLine(
+    //textToReplace != null && assistantText != null
+    //    ? assistantText.Replace(textToReplace, filePath ?? "")
+    //    : assistantText);
+    }
+    else
+    {
+        Console.WriteLine("Run failed");
     }
 
-    Console.WriteLine(textToReplace != null ? response.Text.Replace(textToReplace, filePath) : response.Text);
+    // Cleanup
+    await client.Threads.DeleteThreadAsync(run.ThreadId);
 }
 finally
 {
-    if (chatClientAgentSession != null)
-    {
-        await client.Threads.DeleteThreadAsync(chatClientAgentSession.ConversationId);
-    }
 
     if (aiFoundryAgent != null)
     {
