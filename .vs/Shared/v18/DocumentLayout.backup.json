@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8866C974-0390-48DD-841E-0D4FF36E6F69}|AzureAiFoundry.CodeInterpreter\\AzureAiFoundry.CodeInterpreter.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\azureaifoundry.codeinterpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8866C974-0390-48DD-841E-0D4FF36E6F69}|AzureAiFoundry.CodeInterpreter\\AzureAiFoundry.CodeInterpreter.csproj|solutionrelative:azureaifoundry.codeinterpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE687FB0-1CF2-4355-BCCA-C958E3C19B18}|AzureAiFoundry.FileSearch\\AzureAiFoundry.FileSearch.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\azureaifoundry.filesearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE687FB0-1CF2-4355-BCCA-C958E3C19B18}|AzureAiFoundry.FileSearch\\AzureAiFoundry.FileSearch.csproj|solutionrelative:azureaifoundry.filesearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}|AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\azureaifoundry.administration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}|AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj|solutionrelative:azureaifoundry.administration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}|AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\azureaifoundry.administration\\azureaifoundry.administration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}|AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj|solutionrelative:azureaifoundry.administration\\azureaifoundry.administration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FA0EB096-BB1C-4661-8686-4C0B2C39D4F5}|AzureAiFoundry.WebSearch\\AzureAiFoundry.WebSearch.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\azureaifoundry.websearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0EB096-BB1C-4661-8686-4C0B2C39D4F5}|AzureAiFoundry.WebSearch\\AzureAiFoundry.WebSearch.csproj|solutionrelative:azureaifoundry.websearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AzureAiFoundry.Administration.csproj",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj",
-              "RelativeDocumentMoniker": "AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj",
-              "RelativeToolTip": "AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-13T03:38:08.411Z"
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.FileSearch\\Program.cs",
+              "RelativeDocumentMoniker": "AzureAiFoundry.FileSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.FileSearch\\Program.cs",
+              "RelativeToolTip": "AzureAiFoundry.FileSearch\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T02:53:21.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.Administration\\Program.cs",
-              "RelativeDocumentMoniker": "AzureAiFoundry.Administration\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.Administration\\Program.cs",
-              "RelativeToolTip": "AzureAiFoundry.Administration\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.WebSearch\\Program.cs",
+              "RelativeDocumentMoniker": "AzureAiFoundry.WebSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.WebSearch\\Program.cs",
+              "RelativeToolTip": "AzureAiFoundry.WebSearch\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T03:38:09.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.CodeInterpreter\\Program.cs",
-              "RelativeDocumentMoniker": "AzureAiFoundry.CodeInterpreter\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.CodeInterpreter\\Program.cs",
-              "RelativeToolTip": "AzureAiFoundry.CodeInterpreter\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAADUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T03:37:51.652Z",
+              "WhenOpened": "2026-04-15T02:35:59.075Z",
               "EditorCaption": ""
             }
           ]

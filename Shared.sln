@@ -114,6 +114,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAiFoundry.WebSearch", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAiFoundry.FileSearch", "AzureAiFoundry.FileSearch\AzureAiFoundry.FileSearch.csproj", "{DE687FB0-1CF2-4355-BCCA-C958E3C19B18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAiFoundry.Models", "AzureAiFoundry.Models\AzureAiFoundry.Models.csproj", "{B4E455EC-7F32-4119-8093-D3616EF2005B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -276,6 +278,10 @@ Global
 		{DE687FB0-1CF2-4355-BCCA-C958E3C19B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE687FB0-1CF2-4355-BCCA-C958E3C19B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE687FB0-1CF2-4355-BCCA-C958E3C19B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E455EC-7F32-4119-8093-D3616EF2005B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E455EC-7F32-4119-8093-D3616EF2005B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E455EC-7F32-4119-8093-D3616EF2005B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E455EC-7F32-4119-8093-D3616EF2005B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -325,6 +331,7 @@ Global
 		{8866C974-0390-48DD-841E-0D4FF36E6F69} = {910E590B-3E4D-40E2-86A4-5CA1049C012C}
 		{FA0EB096-BB1C-4661-8686-4C0B2C39D4F5} = {910E590B-3E4D-40E2-86A4-5CA1049C012C}
 		{DE687FB0-1CF2-4355-BCCA-C958E3C19B18} = {910E590B-3E4D-40E2-86A4-5CA1049C012C}
+		{B4E455EC-7F32-4119-8093-D3616EF2005B} = {910E590B-3E4D-40E2-86A4-5CA1049C012C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}
