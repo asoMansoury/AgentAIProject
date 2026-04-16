@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToolCalling.FromAnMcpServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45fbfc14c614f43fe392d857702c568b4bcbc4c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d51d02545e15d53181d3cdfa6ea907f3e023c44f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToolCalling.FromAnMcpServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToolCalling.FromAnMcpServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

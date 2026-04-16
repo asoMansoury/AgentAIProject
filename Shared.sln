@@ -118,6 +118,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAiFoundry.Models", "Az
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHistoryReducer", "ChatHistoryReducer\ChatHistoryReducer.csproj", "{E69386A6-3654-4F6A-AA82-554E2393E59F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheDifferentAgents", "TheDifferentAgents\TheDifferentAgents.csproj", "{D88225B6-9BB5-4160-B2CC-C1F3F55461BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -288,6 +290,10 @@ Global
 		{E69386A6-3654-4F6A-AA82-554E2393E59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E69386A6-3654-4F6A-AA82-554E2393E59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E69386A6-3654-4F6A-AA82-554E2393E59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D88225B6-9BB5-4160-B2CC-C1F3F55461BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88225B6-9BB5-4160-B2CC-C1F3F55461BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88225B6-9BB5-4160-B2CC-C1F3F55461BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88225B6-9BB5-4160-B2CC-C1F3F55461BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -339,6 +345,7 @@ Global
 		{DE687FB0-1CF2-4355-BCCA-C958E3C19B18} = {910E590B-3E4D-40E2-86A4-5CA1049C012C}
 		{B4E455EC-7F32-4119-8093-D3616EF2005B} = {910E590B-3E4D-40E2-86A4-5CA1049C012C}
 		{E69386A6-3654-4F6A-AA82-554E2393E59F} = {FD9450F9-A7E3-442B-9D73-3A6CB83E0930}
+		{D88225B6-9BB5-4160-B2CC-C1F3F55461BF} = {77078A4E-EF97-4144-B280-EEF5890A0DB1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}
