@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4E455EC-7F32-4119-8093-D3616EF2005B}|AzureAiFoundry.Models\\AzureAiFoundry.Models.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\azureaifoundry.models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4E455EC-7F32-4119-8093-D3616EF2005B}|AzureAiFoundry.Models\\AzureAiFoundry.Models.csproj|solutionrelative:azureaifoundry.models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA0EB096-BB1C-4661-8686-4C0B2C39D4F5}|AzureAiFoundry.WebSearch\\AzureAiFoundry.WebSearch.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\azureaifoundry.websearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA0EB096-BB1C-4661-8686-4C0B2C39D4F5}|AzureAiFoundry.WebSearch\\AzureAiFoundry.WebSearch.csproj|solutionrelative:azureaifoundry.websearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E69386A6-3654-4F6A-AA82-554E2393E59F}|ChatHistoryReducer\\ChatHistoryReducer.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\chathistoryreducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69386A6-3654-4F6A-AA82-554E2393E59F}|ChatHistoryReducer\\ChatHistoryReducer.csproj|solutionrelative:chathistoryreducer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.WebSearch\\Program.cs",
-              "RelativeDocumentMoniker": "AzureAiFoundry.WebSearch\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.WebSearch\\Program.cs",
-              "RelativeToolTip": "AzureAiFoundry.WebSearch\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T03:47:43.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.Models\\Program.cs",
-              "RelativeDocumentMoniker": "AzureAiFoundry.Models\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.Models\\Program.cs",
-              "RelativeToolTip": "AzureAiFoundry.Models\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAiwEYAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ChatHistoryReducer\\Program.cs",
+              "RelativeDocumentMoniker": "ChatHistoryReducer\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ChatHistoryReducer\\Program.cs",
+              "RelativeToolTip": "ChatHistoryReducer\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T03:34:44.19Z",
+              "WhenOpened": "2026-04-16T01:57:27.996Z",
               "EditorCaption": ""
             }
           ]

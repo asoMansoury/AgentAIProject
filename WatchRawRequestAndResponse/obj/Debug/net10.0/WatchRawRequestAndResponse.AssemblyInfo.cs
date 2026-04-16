@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WatchRawRequestAndResponse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79fc59ef9d30140a265a886c76b507b308a2b47b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45fbfc14c614f43fe392d857702c568b4bcbc4c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("WatchRawRequestAndResponse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WatchRawRequestAndResponse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
