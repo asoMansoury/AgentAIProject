@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenAIResponseApi.ResumeConversation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+213c21c7a7f81bca98730ec56ceeb6dcceb194d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e95750123ae65ef68637b20fe42a8a2a123b69aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenAIResponseApi.ResumeConversation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenAIResponseApi.ResumeConversation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

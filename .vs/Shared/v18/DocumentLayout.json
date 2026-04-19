@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA3B252A-0D87-42F6-9C90-5926EFE6E7E4}|AgentUserInteraction.Client\\AgentUserInteraction.Client.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agentuserinteraction.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA3B252A-0D87-42F6-9C90-5926EFE6E7E4}|AgentUserInteraction.Client\\AgentUserInteraction.Client.csproj|solutionrelative:agentuserinteraction.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F463B34A-3D50-4769-B70D-1684E566A950}|DevUI\\DevUI.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\devui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F463B34A-3D50-4769-B70D-1684E566A950}|DevUI\\DevUI.csproj|solutionrelative:devui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC15D62-C1EF-44C0-801D-2ADA17ED238A}|AgentUserInteraction.Server\\AgentUserInteraction.Server.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agentuserinteraction.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEC15D62-C1EF-44C0-801D-2ADA17ED238A}|AgentUserInteraction.Server\\AgentUserInteraction.Server.csproj|solutionrelative:agentuserinteraction.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF6BB94A-33BE-4EFE-9A36-E03DB66CF994}|Agent2Agent.Server\\Agent2Agent.Server.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agent2agent.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6BB94A-33BE-4EFE-9A36-E03DB66CF994}|Agent2Agent.Server\\Agent2Agent.Server.csproj|solutionrelative:agent2agent.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F463B34A-3D50-4769-B70D-1684E566A950}|DevUI\\DevUI.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\devui\\devui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F463B34A-3D50-4769-B70D-1684E566A950}|DevUI\\DevUI.csproj|solutionrelative:devui\\devui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,26 +32,39 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentUserInteraction.Server\\Program.cs",
-              "RelativeDocumentMoniker": "AgentUserInteraction.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentUserInteraction.Server\\Program.cs",
-              "RelativeToolTip": "AgentUserInteraction.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Agent2Agent.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Agent2Agent.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Agent2Agent.Server\\Program.cs",
+              "RelativeToolTip": "Agent2Agent.Server\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T05:31:38.545Z",
+              "WhenOpened": "2026-04-19T05:46:57.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevUI",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\DevUI\\DevUI.csproj",
+              "RelativeDocumentMoniker": "DevUI\\DevUI.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\DevUI\\DevUI.csproj",
+              "RelativeToolTip": "DevUI\\DevUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T05:46:25.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentUserInteraction.Client\\Program.cs",
-              "RelativeDocumentMoniker": "AgentUserInteraction.Client\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentUserInteraction.Client\\Program.cs",
-              "RelativeToolTip": "AgentUserInteraction.Client\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\DevUI\\Program.cs",
+              "RelativeDocumentMoniker": "DevUI\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\DevUI\\Program.cs",
+              "RelativeToolTip": "DevUI\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T05:21:40.22Z",
+              "WhenOpened": "2026-04-19T05:44:22.72Z",
               "EditorCaption": ""
             }
           ]
