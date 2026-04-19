@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D88225B6-9BB5-4160-B2CC-C1F3F55461BF}|TheDifferentAgents\\TheDifferentAgents.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\thedifferentagents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D88225B6-9BB5-4160-B2CC-C1F3F55461BF}|TheDifferentAgents\\TheDifferentAgents.csproj|solutionrelative:thedifferentagents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF6BB94A-33BE-4EFE-9A36-E03DB66CF994}|Agent2Agent.Server\\Agent2Agent.Server.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agent2agent.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF6BB94A-33BE-4EFE-9A36-E03DB66CF994}|Agent2Agent.Server\\Agent2Agent.Server.csproj|solutionrelative:agent2agent.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}|AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\azureaifoundry.administration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6655BB6C-0E2F-477E-A09B-14D5D66A8FBD}|AzureAiFoundry.Administration\\AzureAiFoundry.Administration.csproj|solutionrelative:azureaifoundry.administration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC7E7AEA-836E-4191-8B6C-1A3F8FD8A6D6}|Agent2Agent.Client\\Agent2Agent.Client.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agent2agent.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC7E7AEA-836E-4191-8B6C-1A3F8FD8A6D6}|Agent2Agent.Client\\Agent2Agent.Client.csproj|solutionrelative:agent2agent.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF6BB94A-33BE-4EFE-9A36-E03DB66CF994}|Agent2Agent.Server\\Agent2Agent.Server.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agent2agent.server\\agent2agent.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF6BB94A-33BE-4EFE-9A36-E03DB66CF994}|Agent2Agent.Server\\Agent2Agent.Server.csproj|solutionrelative:agent2agent.server\\agent2agent.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +22,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Agent2Agent.Server",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Agent2Agent.Server\\Agent2Agent.Server.csproj",
+              "RelativeDocumentMoniker": "Agent2Agent.Server\\Agent2Agent.Server.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Agent2Agent.Server\\Agent2Agent.Server.csproj",
+              "RelativeToolTip": "Agent2Agent.Server\\Agent2Agent.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T04:52:00.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Agent2Agent.Client\\Program.cs",
+              "RelativeDocumentMoniker": "Agent2Agent.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Agent2Agent.Client\\Program.cs",
+              "RelativeToolTip": "Agent2Agent.Client\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T04:24:35.664Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.Administration\\Program.cs",
-              "RelativeDocumentMoniker": "AzureAiFoundry.Administration\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AzureAiFoundry.Administration\\Program.cs",
-              "RelativeToolTip": "AzureAiFoundry.Administration\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T02:31:30.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\TheDifferentAgents\\Program.cs",
-              "RelativeDocumentMoniker": "TheDifferentAgents\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\TheDifferentAgents\\Program.cs",
-              "RelativeToolTip": "TheDifferentAgents\\Program.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAqwIAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Agent2Agent.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Agent2Agent.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Agent2Agent.Server\\Program.cs",
+              "RelativeToolTip": "Agent2Agent.Server\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAACsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T02:20:19.4Z",
+              "WhenOpened": "2026-04-19T03:39:25.996Z",
               "EditorCaption": ""
             }
           ]
