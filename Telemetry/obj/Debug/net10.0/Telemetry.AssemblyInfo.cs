@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Telemetry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3200ed070d5cef3f523ca57946b2433dda5d1ee6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+213c21c7a7f81bca98730ec56ceeb6dcceb194d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Telemetry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Telemetry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3B252A-0D87-42F6-9C90-5926EFE6E7E4}|AgentUserInteraction.Client\\AgentUserInteraction.Client.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agentuserinteraction.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3B252A-0D87-42F6-9C90-5926EFE6E7E4}|AgentUserInteraction.Client\\AgentUserInteraction.Client.csproj|solutionrelative:agentuserinteraction.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC15D62-C1EF-44C0-801D-2ADA17ED238A}|AgentUserInteraction.Server\\AgentUserInteraction.Server.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\agentuserinteraction.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC15D62-C1EF-44C0-801D-2ADA17ED238A}|AgentUserInteraction.Server\\AgentUserInteraction.Server.csproj|solutionrelative:agentuserinteraction.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentUserInteraction.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AgentUserInteraction.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentUserInteraction.Server\\Program.cs",
+              "RelativeToolTip": "AgentUserInteraction.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T05:31:38.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentUserInteraction.Client\\Program.cs",
+              "RelativeDocumentMoniker": "AgentUserInteraction.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AgentUserInteraction.Client\\Program.cs",
+              "RelativeToolTip": "AgentUserInteraction.Client\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T05:21:40.22Z",
+              "EditorCaption": ""
             }
           ]
         }
