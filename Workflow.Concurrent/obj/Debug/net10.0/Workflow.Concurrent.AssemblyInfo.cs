@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Workflow.Concurrent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e95750123ae65ef68637b20fe42a8a2a123b69aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74026df501dcb691179de2522b8240a9b85b1eb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Workflow.Concurrent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Workflow.Concurrent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
