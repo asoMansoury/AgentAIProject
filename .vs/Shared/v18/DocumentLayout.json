@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9C17B81-0DD0-43D4-BA2D-53305CC2124E}|UseToonToSaveTokens\\UseToonToSaveTokens.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\usetoontosavetokens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C17B81-0DD0-43D4-BA2D-53305CC2124E}|UseToonToSaveTokens\\UseToonToSaveTokens.csproj|solutionrelative:usetoontosavetokens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{228B8432-7BC9-452D-8E39-1345B8670FAC}|Onmx\\Onmx.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\onmx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228B8432-7BC9-452D-8E39-1345B8670FAC}|Onmx\\Onmx.csproj|solutionrelative:onmx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\advancedragtechniques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BEA09C-217E-431A-B4F1-4072C8F0ADA2}|AdvancedRAGTechniques\\AdvancedRAGTechniques.csproj|solutionrelative:advancedragtechniques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{228B8432-7BC9-452D-8E39-1345B8670FAC}|Onmx\\Onnx.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\onmx\\onnx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{228B8432-7BC9-452D-8E39-1345B8670FAC}|Onmx\\Onnx.csproj|solutionrelative:onmx\\onnx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,33 +21,33 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Onnx",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Onmx\\Onnx.csproj",
+              "RelativeDocumentMoniker": "Onmx\\Onnx.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Onmx\\Onnx.csproj",
+              "RelativeToolTip": "Onmx\\Onnx.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T03:18:44.12Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Program.cs",
-              "RelativeDocumentMoniker": "AdvancedRAGTechniques\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AdvancedRAGTechniques\\Program.cs",
-              "RelativeToolTip": "AdvancedRAGTechniques\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T02:50:39.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UseToonToSaveTokens\\Program.cs",
-              "RelativeDocumentMoniker": "UseToonToSaveTokens\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\UseToonToSaveTokens\\Program.cs",
-              "RelativeToolTip": "UseToonToSaveTokens\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Onmx\\Program.cs",
+              "RelativeDocumentMoniker": "Onmx\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Onmx\\Program.cs",
+              "RelativeToolTip": "Onmx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T02:45:56.804Z",
+              "WhenOpened": "2026-04-21T03:17:30.208Z",
               "EditorCaption": ""
             }
           ]

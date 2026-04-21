@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{228B8432-7BC9-452D-8E39-1345B8670FAC}|Onmx\\Onnx.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\onmx\\onnx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{228B8432-7BC9-452D-8E39-1345B8670FAC}|Onmx\\Onnx.csproj|solutionrelative:onmx\\onnx.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228B8432-7BC9-452D-8E39-1345B8670FAC}|Onmx\\Onmx.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\onmx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228B8432-7BC9-452D-8E39-1345B8670FAC}|Onmx\\Onmx.csproj|solutionrelative:onmx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Onnx",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Onmx\\Onnx.csproj",
+              "RelativeDocumentMoniker": "Onmx\\Onnx.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Onmx\\Onnx.csproj",
+              "RelativeToolTip": "Onmx\\Onnx.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T03:18:44.12Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Onmx\\Program.cs",
+              "RelativeDocumentMoniker": "Onmx\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Onmx\\Program.cs",
+              "RelativeToolTip": "Onmx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T03:17:30.208Z",
+              "EditorCaption": ""
             }
           ]
         }

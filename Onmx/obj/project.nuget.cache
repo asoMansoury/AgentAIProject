@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pmq7kdZz1Ww=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\Onmx\\Onnx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asoMan\\.nuget\\packages\\google.protobuf\\3.30.2\\google.protobuf.3.30.2.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.agents.ai\\1.1.0\\microsoft.agents.ai.1.1.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.agents.ai.abstractions\\1.1.0\\microsoft.agents.ai.abstractions.1.1.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.ai\\10.4.0\\microsoft.extensions.ai.10.4.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.4.0\\microsoft.extensions.ai.abstractions.10.4.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.4\\microsoft.extensions.caching.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\10.4.0\\microsoft.extensions.compliance.abstractions.10.4.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.4\\microsoft.extensions.dependencyinjection.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.4\\microsoft.extensions.logging.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.objectpool\\10.0.4\\microsoft.extensions.objectpool.10.0.4.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.4\\microsoft.extensions.primitives.10.0.4.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\9.7.0\\microsoft.extensions.vectordata.abstractions.9.7.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.24.4\\microsoft.ml.onnxruntime.1.24.4.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.24.4\\microsoft.ml.onnxruntime.managed.1.24.4.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.ml.onnxruntimegenai\\0.13.1\\microsoft.ml.onnxruntimegenai.0.13.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.ml.onnxruntimegenai.managed\\0.13.1\\microsoft.ml.onnxruntimegenai.managed.0.13.1.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.ml.tokenizers\\2.0.0\\microsoft.ml.tokenizers.2.0.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\system.numerics.tensors\\10.0.4\\system.numerics.tensors.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

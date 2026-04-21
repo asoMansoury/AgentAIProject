@@ -140,6 +140,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenUsag", "TokenUsag\Toke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseToonToSaveTokens", "UseToonToSaveTokens\UseToonToSaveTokens.csproj", "{B9C17B81-0DD0-43D4-BA2D-53305CC2124E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onnx", "Onmx\Onnx.csproj", "{228B8432-7BC9-452D-8E39-1345B8670FAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -342,6 +344,10 @@ Global
 		{B9C17B81-0DD0-43D4-BA2D-53305CC2124E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9C17B81-0DD0-43D4-BA2D-53305CC2124E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9C17B81-0DD0-43D4-BA2D-53305CC2124E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228B8432-7BC9-452D-8E39-1345B8670FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228B8432-7BC9-452D-8E39-1345B8670FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228B8432-7BC9-452D-8E39-1345B8670FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228B8432-7BC9-452D-8E39-1345B8670FAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -400,6 +406,7 @@ Global
 		{EA3B252A-0D87-42F6-9C90-5926EFE6E7E4} = {2C406538-0748-4154-8589-F59D975F4D43}
 		{0B9AA366-BEEC-4B83-8BF3-5A99825CE53F} = {6A6307B9-B862-46BE-8703-774FFCE7CA08}
 		{B9C17B81-0DD0-43D4-BA2D-53305CC2124E} = {6A6307B9-B862-46BE-8703-774FFCE7CA08}
+		{228B8432-7BC9-452D-8E39-1345B8670FAC} = {85201CAF-4FE0-495D-B7C0-FF1C58F111AF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}
