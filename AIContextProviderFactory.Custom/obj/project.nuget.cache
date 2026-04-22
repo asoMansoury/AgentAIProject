@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YHz7FpvXAuY=",
+  "dgSpecHash": "2NoLXx7nLEw=",
   "success": true,
   "projectFilePath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AIContextProviderFactory.Custom\\AIContextProviderFactory.Custom.csproj",
   "expectedPackageFiles": [
@@ -50,6 +50,12 @@
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.1\\microsoft.extensions.options.configurationextensions.10.0.1.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.3\\microsoft.extensions.primitives.10.0.3.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\9.7.0\\microsoft.extensions.vectordata.abstractions.9.7.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\naudio\\2.3.0\\naudio.2.3.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\naudio.asio\\2.3.0\\naudio.asio.2.3.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\naudio.core\\2.3.0\\naudio.core.2.3.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\naudio.midi\\2.3.0\\naudio.midi.2.3.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\naudio.wasapi\\2.3.0\\naudio.wasapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\asoMan\\.nuget\\packages\\naudio.winmm\\2.3.0\\naudio.winmm.2.3.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\openai\\2.8.0\\openai.2.8.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\opentelemetry\\1.14.0\\opentelemetry.1.14.0.nupkg.sha512",
     "C:\\Users\\asoMan\\.nuget\\packages\\opentelemetry.api\\1.14.0\\opentelemetry.api.1.14.0.nupkg.sha512",
