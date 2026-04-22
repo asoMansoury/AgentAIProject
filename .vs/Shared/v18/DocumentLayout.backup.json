@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C35FA4BF-8CA0-4796-B061-48CB88B91993}|AIContextProviderFactory.Custom\\AIContextProviderFactory.Custom.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\aicontextproviderfactory.custom\\customcontextprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C35FA4BF-8CA0-4796-B061-48CB88B91993}|AIContextProviderFactory.Custom\\AIContextProviderFactory.Custom.csproj|solutionrelative:aicontextproviderfactory.custom\\customcontextprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C35FA4BF-8CA0-4796-B061-48CB88B91993}|AIContextProviderFactory.Custom\\AIContextProviderFactory.Custom.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\aicontextproviderfactory.custom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C35FA4BF-8CA0-4796-B061-48CB88B91993}|AIContextProviderFactory.Custom\\AIContextProviderFactory.Custom.csproj|solutionrelative:aicontextproviderfactory.custom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{801282EA-1008-4303-BD23-F87461B0EFCC}|GenerateSpeech\\GenerateSpeech.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\generatespeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{801282EA-1008-4303-BD23-F87461B0EFCC}|GenerateSpeech\\GenerateSpeech.csproj|solutionrelative:generatespeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomContextProvider.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AIContextProviderFactory.Custom\\CustomContextProvider.cs",
-              "RelativeDocumentMoniker": "AIContextProviderFactory.Custom\\CustomContextProvider.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AIContextProviderFactory.Custom\\CustomContextProvider.cs",
-              "RelativeToolTip": "AIContextProviderFactory.Custom\\CustomContextProvider.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:34:23.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AIContextProviderFactory.Custom\\Program.cs",
-              "RelativeDocumentMoniker": "AIContextProviderFactory.Custom\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\AIContextProviderFactory.Custom\\Program.cs",
-              "RelativeToolTip": "AIContextProviderFactory.Custom\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwDAAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\GenerateSpeech\\Program.cs",
+              "RelativeDocumentMoniker": "GenerateSpeech\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\GenerateSpeech\\Program.cs",
+              "RelativeToolTip": "GenerateSpeech\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:30:39.241Z",
+              "WhenOpened": "2026-04-22T02:48:12.929Z",
               "EditorCaption": ""
             }
           ]

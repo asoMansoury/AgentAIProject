@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{801282EA-1008-4303-BD23-F87461B0EFCC}|GenerateSpeech\\GenerateSpeech.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\generatespeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{801282EA-1008-4303-BD23-F87461B0EFCC}|GenerateSpeech\\GenerateSpeech.csproj|solutionrelative:generatespeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF09023D-663A-45EA-9092-B484FDF153F4}|ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\toolcalling.serviceinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF09023D-663A-45EA-9092-B484FDF153F4}|ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj|solutionrelative:toolcalling.serviceinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF09023D-663A-45EA-9092-B484FDF153F4}|ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\toolcalling.serviceinjection\\toolcalling.serviceinjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF09023D-663A-45EA-9092-B484FDF153F4}|ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj|solutionrelative:toolcalling.serviceinjection\\toolcalling.serviceinjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToolCalling.ServiceInjection",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj",
+              "RelativeDocumentMoniker": "ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj",
+              "RelativeToolTip": "ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T02:58:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\GenerateSpeech\\Program.cs",
-              "RelativeDocumentMoniker": "GenerateSpeech\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\GenerateSpeech\\Program.cs",
-              "RelativeToolTip": "GenerateSpeech\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCEAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.ServiceInjection\\Program.cs",
+              "RelativeDocumentMoniker": "ToolCalling.ServiceInjection\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.ServiceInjection\\Program.cs",
+              "RelativeToolTip": "ToolCalling.ServiceInjection\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:48:12.929Z",
+              "WhenOpened": "2026-04-22T02:58:06.473Z",
               "EditorCaption": ""
             }
           ]

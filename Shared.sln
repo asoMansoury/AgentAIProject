@@ -150,6 +150,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Audio", "Audio", "{2E882C4D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateSpeech", "GenerateSpeech\GenerateSpeech.csproj", "{801282EA-1008-4303-BD23-F87461B0EFCC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tool Calling & MCP", "Tool Calling & MCP", "{470E4BD2-DB84-470C-8C98-A2FF042D13B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolCalling.ServiceInjection", "ToolCalling.ServiceInjection\ToolCalling.ServiceInjection.csproj", "{FF09023D-663A-45EA-9092-B484FDF153F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -364,6 +368,10 @@ Global
 		{801282EA-1008-4303-BD23-F87461B0EFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{801282EA-1008-4303-BD23-F87461B0EFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{801282EA-1008-4303-BD23-F87461B0EFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF09023D-663A-45EA-9092-B484FDF153F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF09023D-663A-45EA-9092-B484FDF153F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF09023D-663A-45EA-9092-B484FDF153F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF09023D-663A-45EA-9092-B484FDF153F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -425,6 +433,7 @@ Global
 		{228B8432-7BC9-452D-8E39-1345B8670FAC} = {85201CAF-4FE0-495D-B7C0-FF1C58F111AF}
 		{C35FA4BF-8CA0-4796-B061-48CB88B91993} = {AF1075FE-BFC6-4F54-AAD1-F4A4801DCF89}
 		{801282EA-1008-4303-BD23-F87461B0EFCC} = {2E882C4D-B6D4-474D-BDF9-32560AEA6EF0}
+		{FF09023D-663A-45EA-9092-B484FDF153F4} = {470E4BD2-DB84-470C-8C98-A2FF042D13B7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {353A0016-E834-4AE0-BFFB-4C0FC763879C}
