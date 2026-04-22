@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureAiFoundry.WebSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e24903edfc00bb99fa65a812e3e619d331b25aa1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17a42cd29ccb02b42c5acd43e683a0ff617848fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureAiFoundry.WebSearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureAiFoundry.WebSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
