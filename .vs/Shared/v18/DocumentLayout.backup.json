@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{801282EA-1008-4303-BD23-F87461B0EFCC}|GenerateSpeech\\GenerateSpeech.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\generatespeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{801282EA-1008-4303-BD23-F87461B0EFCC}|GenerateSpeech\\GenerateSpeech.csproj|solutionrelative:generatespeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{481F026E-B377-4A71-90D3-9926113FC662}|MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\microsoftfoundry.agents.basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481F026E-B377-4A71-90D3-9926113FC662}|MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj|solutionrelative:microsoftfoundry.agents.basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481F026E-B377-4A71-90D3-9926113FC662}|MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\microsoftfoundry.agents.basic\\microsoftfoundry.agents.basic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{481F026E-B377-4A71-90D3-9926113FC662}|MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj|solutionrelative:microsoftfoundry.agents.basic\\microsoftfoundry.agents.basic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MicrosoftFoundry.Agents.Basic",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj",
+              "RelativeDocumentMoniker": "MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj",
+              "RelativeToolTip": "MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T02:14:56.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\GenerateSpeech\\Program.cs",
-              "RelativeDocumentMoniker": "GenerateSpeech\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\GenerateSpeech\\Program.cs",
-              "RelativeToolTip": "GenerateSpeech\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCEAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MicrosoftFoundry.Agents.Basic\\Program.cs",
+              "RelativeDocumentMoniker": "MicrosoftFoundry.Agents.Basic\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MicrosoftFoundry.Agents.Basic\\Program.cs",
+              "RelativeToolTip": "MicrosoftFoundry.Agents.Basic\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:48:12.929Z",
+              "WhenOpened": "2026-04-23T03:02:28.379Z",
               "EditorCaption": ""
             }
           ]

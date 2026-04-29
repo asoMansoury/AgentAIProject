@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenerateSpeech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82aabe076bda4062ae6df4eca42b9d7572e3ce98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feedafc3319a2f20a456db8bfd650cb630c48a3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenerateSpeech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenerateSpeech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

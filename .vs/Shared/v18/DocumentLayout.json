@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF09023D-663A-45EA-9092-B484FDF153F4}|ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\toolcalling.serviceinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF09023D-663A-45EA-9092-B484FDF153F4}|ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj|solutionrelative:toolcalling.serviceinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{481F026E-B377-4A71-90D3-9926113FC662}|MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\microsoftfoundry.agents.basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481F026E-B377-4A71-90D3-9926113FC662}|MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj|solutionrelative:microsoftfoundry.agents.basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF09023D-663A-45EA-9092-B484FDF153F4}|ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\toolcalling.serviceinjection\\toolcalling.serviceinjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FF09023D-663A-45EA-9092-B484FDF153F4}|ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj|solutionrelative:toolcalling.serviceinjection\\toolcalling.serviceinjection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{481F026E-B377-4A71-90D3-9926113FC662}|MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj|c:\\users\\asoman\\documents\\github\\agentaiproject\\microsoftfoundry.agents.basic\\microsoftfoundry.agents.basic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{481F026E-B377-4A71-90D3-9926113FC662}|MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj|solutionrelative:microsoftfoundry.agents.basic\\microsoftfoundry.agents.basic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ToolCalling.ServiceInjection",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj",
-              "RelativeDocumentMoniker": "ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj",
-              "RelativeToolTip": "ToolCalling.ServiceInjection\\ToolCalling.ServiceInjection.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Title": "MicrosoftFoundry.Agents.Basic",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj",
+              "RelativeDocumentMoniker": "MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj",
+              "RelativeToolTip": "MicrosoftFoundry.Agents.Basic\\MicrosoftFoundry.Agents.Basic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-22T02:58:30.958Z",
+              "WhenOpened": "2026-04-29T02:14:56.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.ServiceInjection\\Program.cs",
-              "RelativeDocumentMoniker": "ToolCalling.ServiceInjection\\Program.cs",
-              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\ToolCalling.ServiceInjection\\Program.cs",
-              "RelativeToolTip": "ToolCalling.ServiceInjection\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MicrosoftFoundry.Agents.Basic\\Program.cs",
+              "RelativeDocumentMoniker": "MicrosoftFoundry.Agents.Basic\\Program.cs",
+              "ToolTip": "C:\\Users\\asoMan\\Documents\\GitHub\\AgentAIProject\\MicrosoftFoundry.Agents.Basic\\Program.cs",
+              "RelativeToolTip": "MicrosoftFoundry.Agents.Basic\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T02:58:06.473Z",
+              "WhenOpened": "2026-04-23T03:02:28.379Z",
               "EditorCaption": ""
             }
           ]
